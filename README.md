@@ -56,4 +56,4 @@ similar to figs 3-6, 8.
 
 ---
 
-2025-05-30: Standardized to Markdown, and formatted description, headings, and lists.
+2025-05-30: Standardized to Markdown
